@@ -49,8 +49,8 @@ An arcade Snake game in Haskell with multiple game modes, persistent high scores
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=katekitova&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=katekitova&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=katekitova&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&v=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=katekitova&theme=tokyonight&hide_border=false&layout=compact&v=1)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=katekitova&icon=0&color=0)](https://visitcount.itsvg.in)
