@@ -18,6 +18,12 @@ A local RAG system for question answering over documents, featuring transparent 
 ### [Sentiment Classification of Russian Movie Reviews](https://github.com/katekitova/Sentiment_classification_Russian_movie_reviews)
 A binary sentiment classification project for Kinopoisk movie reviews, comparing TF-IDF, Word2Vec, and FastText approaches with FFNN, RNN, and LSTM models.
 
+### [Interpreter of a Model Programming Language](https://github.com/katekitova/interpreter_of_a_model_programming_language)
+A C++ interpreter for a custom model programming language, built with a lexer, recursive descent parser, intermediate instruction representation, and a stack-based execution engine. Supports variables, arithmetic and logical expressions, branching, loops, input/output, and case statements.
+
+### [QoS Evaluation of Network Connections](https://github.com/katekitova/data_transmission_and_processing_networks)
+A Python-based academic project focused on evaluating Quality of Service (QoS) parameters of network connections, including measurement analysis and report-based interpretation of results.
+
 ### [Snake Game on Haskell](https://github.com/katekitova/snake_game_haskell)
 An arcade Snake game in Haskell with multiple game modes, persistent high scores, music and sound effects, and cross-platform support.
 
