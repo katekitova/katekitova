@@ -24,6 +24,9 @@ A C++ interpreter for a custom model programming language, built with a lexer, r
 ### [QoS Evaluation of Network Connections](https://github.com/katekitova/data_transmission_and_processing_networks)
 A Python-based academic project focused on evaluating Quality of Service (QoS) parameters of network connections, including measurement analysis and report-based interpretation of results.
 
+### [Client-server system](https://github.com/katekitova/client_server)
+A C++ client-server system built as a networking project, demonstrating socket programming, communication protocols, and core system-level development concepts.
+
 ### [Snake Game on Haskell](https://github.com/katekitova/snake_game_haskell)
 An arcade Snake game in Haskell with multiple game modes, persistent high scores, music and sound effects, and cross-platform support.
 
