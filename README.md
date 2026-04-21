@@ -12,6 +12,9 @@
 
 ## 📁 Projects
 
+### [Personal Spotify Intelligence](https://github.com/katekitova/Personal_Spotify_Intelligence)
+An interactive personal music analytics app that reconstructs Spotify listening sessions, explains behavioral patterns, and predicts skip/replay outcomes from context and history. Includes an end-to-end pipeline, sessionization, feature engineering, clustering, prediction tasks, and a Streamlit app.
+
 ### [Document RAG Assistant](https://github.com/katekitova/Document_RAG_Assistant)
 A local RAG system for question answering over documents, featuring transparent citations, hybrid retrieval, reranking, evaluation, a FastAPI backend, and a Streamlit demo.
 
