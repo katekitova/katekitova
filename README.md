@@ -4,21 +4,13 @@
 
 🎓 Computer Science student at Lomonosov Moscow State University
 
-📚 My academic focus is on NLP. My coursework project explores methods and tools for morphological text processing
+💼 Junior Data Scientist specializing in Information Retrieval & NLP
 
-🤖 Interested in ML, NLP, LLM-based systems, information retrieval, and building intelligent services that combine AI with practical user needs
+🤖 Building ML, NLP, and LLM-powered applications with a focus on practical AI systems
 
-👩‍💻 Working with Python, C/C++, SQL, and developing ML and data-driven applications
+📚 My academic interests include morphological text processing, information retrieval, and modern NLP methods
 
-## Currently
-
-🔹 Junior Data Scientist (IR & NLP)
-
-🔹 Working on LLM-as-a-Judge evaluation
-
-🔹 Building Information Retrieval systems
-
-🔹 Exploring Agentic AI
+👩‍💻 Working primarily with Python, C/C++, SQL, and the ML ecosystem
 
 ## 📁 Projects
 
