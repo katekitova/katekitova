@@ -10,6 +10,16 @@
 
 👩‍💻 Working with Python, C/C++, SQL, and developing ML and data-driven applications
 
+## Currently
+
+🔹 Junior Data Scientist (IR & NLP)
+
+🔹 Working on LLM-as-a-Judge evaluation
+
+🔹 Building Information Retrieval systems
+
+🔹 Exploring Agentic AI
+
 ## 📁 Projects
 
 ### [Personal Spotify Intelligence](https://github.com/katekitova/Personal_Spotify_Intelligence)
